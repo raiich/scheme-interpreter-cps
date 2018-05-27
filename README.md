@@ -2,7 +2,7 @@
 
 ## Install & Getting Started
 
-Depend on Gauche.
+This depends on `Gauche`.
 
 ```
 $ brew install gauche
